@@ -1,3 +1,4 @@
 stremlit
 pandes
 plotly
+os

@@ -1,0 +1,3 @@
+stremlit
+pandes
+plotly
